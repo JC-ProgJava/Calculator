@@ -1,4 +1,3 @@
-// Justin Chen
 // Calculator (v2021.12.14)
 
 // Include libraries
